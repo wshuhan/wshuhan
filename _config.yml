@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Israel Diego"
+title                    : "Your Name"
 title_separator          : "-"
-name                     : "Israel Diego"
+name                     : "Your Name"
 description              : "Master of Science in Quantitative Finance and Risk Management. University of Michigan. Israel Diego"
 url                      : "https://israeldi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -61,22 +61,22 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true # true, false (default)
-search_full_content      : true # , false (default)
-search_provider          : "algolia"
+search                   : # true # true, false (default)
+search_full_content      : # true # , false (default)
+search_provider          : # "algolia"
 algolia:
-  application_id         : "T6DWTZQOBM" # YOUR_APPLICATION_ID
-  index_name             : "home_page" # YOUR_INDEX_NAME
-  search_only_api_key    : "4704a544add99d461048379f505940ea" # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : true # true (default), false
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
 google:
   search_engine_id       : 
   instant_search         : 
 # SEO Related
-google_site_verification : _1qiQeNXzCRBYYYjvxEaTw0_-j5cyJl0Jx4u7BWf5fw
-bing_site_verification   : 03A2C753087FBE3612DB1D746CEE1314
-yandex_site_verification : baef073ce9bf98a7
-naver_site_verification  : 83daa389e6cd294b8a2fdd634c014dbc0546f4a7
+google_site_verification : 
+bing_site_verification   : 
+yandex_site_verification : 
+naver_site_verification  :
 
 # Social Sharing
 twitter:
@@ -95,26 +95,26 @@ social:
 
 # Analytics
 analytics:
-  provider               : google # false (default), "google", "google-universal", "custom"
+  provider               : # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-131164552-1
-    anonymize_ip         : false # true, false (default)
+    tracking_id          : 
+    anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Israel Diego"
+  name             : "Your Name"
   avatar           : "/assets/images/profile_pic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Master of Science in Quantitative Finance and Risk Management | University of Michigan"
   location         : "Ann Arbor, Michigan"
-  email            : #israeldi@umich.edu
+  email            : #email@umich.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:israeldi@umich.edu"
+      url: "mailto:email@umich.edu"
     - label: "University Profile"
       icon: "fas fa-fw fa-link"
-      url: "https://lsa.umich.edu/math/people/quant/2018/israeldi.html"
+      url: "https://lsa.umich.edu/math/people/quant/2018.html"
     #- label: "Twitter"
      # icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -123,10 +123,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/israeldi"
+      url: "https://github.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/israel-diego/"
+      url: "https://www.linkedin.com/"
 
 # Site Footer
 footer:
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/israeldi"
+      url: "https://github.com/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
