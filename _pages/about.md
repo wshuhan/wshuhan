@@ -13,9 +13,9 @@ This repo contains files to my projects and course work.
 
 ### Contact
 
-Mail: email@umich.edu
+Mail: wshuhan@umich.edu
 
-Tel: (734) 555-5555
+Tel: (734) 881-3137
 
 ### About me
 I am a First-Year Masters Student at the University of Michigan
