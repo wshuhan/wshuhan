@@ -2,10 +2,10 @@
 main:
   - title: "Github"
     icon: "fab fa-fw fa-github"
-    url: https://github.com/
+    url: https://github.com/wshuhan.github.io
   - title: "LinkedIn"
     icon: "fab fa-fw fa-linkedin"
-    url: https://www.linkedin.com/
+    url: www.linkedin.com/in/wshuhan
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
